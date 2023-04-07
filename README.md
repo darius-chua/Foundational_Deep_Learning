@@ -1,2 +1,6 @@
 # Foundational_Deep_Learning
-Image mask classification project for the foundational deep learning course at CentraleSupulec
+
+Image mask classification for satellite images during Hurricane Harvey.
+
+
+Project from the foundational deep learning course at CentraleSupulec
